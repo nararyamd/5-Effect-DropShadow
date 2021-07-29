@@ -1,0 +1,7 @@
+.obj {
+    filter: invert(10);
+    width: 250px;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
